@@ -1,4 +1,8 @@
 # TAFormatConvert
+[![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+[![C++](https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=c%2B%2B)](https://isocpp.org/)
+
+
 Project for converting face aligment labels and metadata from TXT files to XML files. 
 
 
